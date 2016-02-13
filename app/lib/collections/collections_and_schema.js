@@ -1,4 +1,4 @@
-var Schemas = {};
+Schemas = {};
 
 Schemas.Services = new SimpleSchema({
 	name: {
