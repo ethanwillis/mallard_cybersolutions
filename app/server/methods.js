@@ -18,5 +18,6 @@ Meteor.methods({
         subject: "Website Contact Form - Message From " + doc.name,
         text: text
     });
+		console.log("Sent email from " + doc.email);
   }
 });
