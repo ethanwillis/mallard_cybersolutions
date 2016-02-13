@@ -2,7 +2,7 @@
   // Server authentication info
   "servers": [
     {
-      "host": "mallardcybersolutions.com",
+      "host": "162.243.255.99"
       "username": "root",
 			"pem": "../keys/deploy"
     }
