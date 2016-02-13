@@ -28,7 +28,7 @@
   "appName": "CyMall",
 
   // Location of app (local directory)
-  "app": "/app/app",
+  "app": "app",
 
   // Configure environment
   "env": {
