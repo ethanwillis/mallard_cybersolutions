@@ -2,9 +2,9 @@
   // Server authentication info
   "servers": [
     {
-      "host": "162.243.255.99"
+      "host": "162.243.255.99",
       "username": "root",
-			"pem": "../keys/deploy"
+			"pem": "keys/deploy"
     }
   ],
 
