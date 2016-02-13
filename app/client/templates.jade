@@ -214,7 +214,7 @@ template(name="contact")
 			h1 Contact Us With The Form Below!
 	.row
 		.col.s8.offset-s2
-			+quickForm collection="Messages" id="insertMessageForm" type="insert"
+			+quickForm collection="Messages" id="insertMessageForm" type="insert" meteormethod="send_email"
 
 template(name="faq")
 	h2 faq page

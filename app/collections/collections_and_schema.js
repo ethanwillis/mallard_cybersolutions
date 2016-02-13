@@ -79,5 +79,3 @@ Messages = new Mongo.Collection("messages");
 Services.attachSchema(Schemas.Services);
 Staff.attachSchema(Schemas.Staff);
 Messages.attachSchema(Schemas.Message);
-
-
